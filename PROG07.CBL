@@ -1,0 +1,8 @@
+IDENTIFICATION DIVISION.
+PROGRAM-ID. PROG07.
+* Mock mainframe program 7
+PROCEDURE DIVISION.
+    DISPLAY "HELLO FROM PROG07".
+    GOBACK.
+
+           * Another change in PROD
